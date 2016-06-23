@@ -33,7 +33,7 @@ Co2嚴重可能造成人類的死亡(有可能的),所以預防此事情發生,*
 
 # 硬體設備 #
 
-- 二氧化碳計(TE-701R) x 1 ( 多台執行也可 )
+- 二氧化碳計(TE-701R) x 1 ( 多台執行也可 )<br>
 ![1](https://github.com/nexstar/Co2_Temp_RH_RS485/raw/master/Picture/DevicePicture.PNG)
 - RS485 x 1 ( 多台也需一條線 )
 
